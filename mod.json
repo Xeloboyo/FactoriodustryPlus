@@ -1,0 +1,10 @@
+{
+  "name": "xelos-pixel-texturepack-plus",
+  "displayName": "Pixel TexturePack Mod +",
+  "author": "Xelo",
+  "description": "Extenstion of factoriodustry for cool mods made by others, can be multiplayered with any set of mods",
+  "version": "0.0.1",
+  "hidden": true,
+  "minGameVersion": "106",
+  "dependencies": ["xelos-pixel-texturepack"]
+}
