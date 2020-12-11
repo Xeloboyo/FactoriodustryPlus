@@ -1,9 +1,9 @@
 {
   "name": "xelos-pixel-texturepack-plus",
-  "displayName": "Pixel TexturePack Mod +",
+  "displayName": "Pixel TexturePack Mod [accent]+",
   "author": "Xelo",
-  "description": "Extenstion of factoriodustry for cool mods made by others, can be multiplayered with any set of mods",
-  "version": "0.0.1",
+  "description": "Extenstion of factoriodustry for cool mods made by others, can be multiplayered with any set of mods.\nCurrently supports: 2 routers from [stat]routorio",
+  "version": "0.0.2",
   "hidden": true,
   "minGameVersion": "106",
   "dependencies": ["xelos-pixel-texturepack"]
